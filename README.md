@@ -90,6 +90,7 @@ Nombre del repositorio que desea aportar
 Temas relacionados a robótica
 
 [Cinemática Directa: Parámetros de Denavit Hartenberg](https://www.youtube.com/watch?v=V_IIeLJzR44).
+[Control Cinemático de un robot móvil en configuración diferencial](https://www.youtube.com/watch?v=llibhe50EMo&t=103s&ab_channel=OscarRamirez)
 
 
 # Temas de interés
